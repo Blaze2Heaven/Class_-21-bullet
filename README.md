@@ -1,1 +1,2 @@
-# Class_-21-bullet
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
